@@ -8,15 +8,15 @@ interface Student {
 
 // Create student objects
 const student1: Student = {
-  firstName: "Besthor",
-  lastName: "Igbe",
+  firstName: "Kennedy",
+  lastName: "Ufene",
   age: 20,
   location: "New York"
 };
 
 const student2: Student = {
-  firstName: "Jane",
-  lastName: "blessedb",
+  firstName: "Zoe",
+  lastName: "David",
   age: 22,
   location: "London"
 };
